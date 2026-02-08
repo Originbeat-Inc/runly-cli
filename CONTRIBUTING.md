@@ -77,6 +77,8 @@ git commit -m "feat: add support for new server protocols"
 
 - `i18n:` 国际化词条更新
 
+- `chore:` 日常杂项
+
 ### ⚖️ 许可协议
 通过向本项目贡献代码，你同意你的贡献将基于 [Apache-2.0 License](https://www.google.com/search?q=LICENSE) 进行授权。
 
