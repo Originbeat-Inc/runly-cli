@@ -1,0 +1,41 @@
+# --- Go 编译产物 ---
+# 过滤 Makefile 生成的 build 临时目录和 dist 分发包目录
+/build/
+/dist/
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# --- 本地开发配置 (极其重要) ---
+# 严禁提交本地测试用的身份信息、私钥和 Token
+.runly/
+config.json
+config.yaml
+*.key
+*.pem
+
+# --- 逻辑资产测试产物 ---
+# 过滤本地调试生成的签署后资产
+dist.runly
+*.log
+
+# --- 依赖管理 ---
+# 如果你使用 vendor 模式可以取消注释，通常建议不提交
+# vendor/
+
+# --- 操作系统/编辑器缓存 ---
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+Thumbs.db
+
+# --- 测试覆盖率 ---
+*.out
+*.test
+prof/
