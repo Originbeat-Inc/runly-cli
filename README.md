@@ -1,25 +1,19 @@
-# Runly CLI
+# 使用 Runly CLI 部署逻辑资产
 
 <p align="center">
-<img src="[https://get.runly.pro/logo.png](https://www.google.com/search?q=https://get.runly.pro/logo.png)" alt="Runly Logo" width="120">
+<img src="[https://get.runly.pro/logo.png](https://www.google.com/search?q=https://get.runly.pro/logo.png)" alt="Runly Protocol" width="120">
 
 
-
-
-
-<b>面向全球开发者的 AI Agent 逻辑资产部署工具</b>
-
-
-
-
-
-<sub>The unified toolkit for deploying and managing AI Agent logic assets.</sub>
 </p>
 
 <p align="center">
-<a href="[https://github.com/originbeat-inc/runly-cli/releases](https://www.google.com/search?q=https://github.com/originbeat-inc/runly-cli/releases)"><img src="[https://img.shields.io/github/v/release/originbeat-inc/runly-cli?style=flat-square](https://www.google.com/search?q=https://img.shields.io/github/v/release/originbeat-inc/runly-cli%3Fstyle%3Dflat-square)" alt="Release"></a>
-<a href="https://www.google.com/search?q=LICENSE"><img src="[https://img.shields.io/github/license/originbeat-inc/runly-cli?style=flat-square](https://www.google.com/search?q=https://img.shields.io/github/license/originbeat-inc/runly-cli%3Fstyle%3Dflat-square)" alt="License"></a>
-<img src="[https://img.shields.io/badge/Language-8--Supported-blue?style=flat-square](https://www.google.com/search?q=https://img.shields.io/badge/Language-8--Supported-blue%3Fstyle%3Dflat-square)" alt="I18n">
+  <a href="https://github.com/originbeat-inc/runly-cli/releases">
+    <img src="https://img.shields.io/github/v/release/originbeat-inc/runly-cli?style=flat-square" alt="Release">
+  </a>
+  <a href="https://github.com/originbeat-inc/runly-cli/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/originbeat-inc/runly-cli?style=flat-square" alt="License">
+  </a>
+  <img src="https://img.shields.io/badge/Language-8--Supported-blue?style=flat-square" alt="I18n">
 </p>
 
 ---
