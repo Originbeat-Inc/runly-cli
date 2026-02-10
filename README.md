@@ -1,7 +1,7 @@
 # 使用 Runly CLI 部署逻辑资产
 
 <p align="center">
-<img src="[https://get.runly.pro/logo.png](https://www.google.com/search?q=https://get.runly.pro/logo.png)" alt="Runly Protocol" width="120">
+<img src="https://assets.runly.pro/runly-logo.png" alt="Runly Protocol" width="600">
 
 
 </p>
